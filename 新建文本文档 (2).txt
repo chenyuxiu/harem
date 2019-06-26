@@ -1,5 +1,0 @@
-user_compute_radiation_interval_time = 10
-## 时间单位
-user_compute_radiation_time_unit = s
-## 积分计算定时器
-user_compute_radiation_corn = 0/10 * * * * ?
